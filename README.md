@@ -64,5 +64,4 @@ Gosto bastante de coisas que envolvem **lógica e raciocínio**, como:
 
 ---
 
-Este perfil acompanha meu processo de aprendizado.  
 Ainda estou no começo, mas a ideia é continuar estudando e melhorando projeto por projeto.

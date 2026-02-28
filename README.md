@@ -1,6 +1,6 @@
 ## Oi! Eu sou a Giovana Dominice 👋
 
-Sou estudante do **2º semestre de Análise e Desenvolvimento de Sistemas** e estou começando minha jornada na área de programação.
+Sou estudante do **2º semestre de Análise e Desenvolvimento de Sistemas**.
 
 Ainda estou construindo minha base, aprendendo os fundamentos e tentando evoluir um pouco a cada projeto que faço.
 

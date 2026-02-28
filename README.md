@@ -31,14 +31,6 @@ No momento estou focada principalmente em:
 
 ---
 
-### O que você vai encontrar aqui
-
-Aqui no meu GitHub eu vou colocando **projetos de estudo e exercícios** que faço durante a faculdade ou para praticar por conta própria.
-
-A ideia é ir registrando minha evolução ao longo do tempo.
-
----
-
 ### Objetivos
 
 Atualmente meu foco é:

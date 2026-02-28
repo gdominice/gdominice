@@ -1,54 +1,68 @@
-## Olá, eu sou a Giovana Dominice 👋
+## Oi! Eu sou a Giovana Dominice 👋
 
-🎓 Sou estudante do **2º semestre de Análise e Desenvolvimento de Sistemas**.  
-💻 Estou no início da minha jornada na programação, focada em construir uma base sólida e aprender de forma consistente.
+Sou estudante do **2º semestre de Análise e Desenvolvimento de Sistemas** e estou começando minha jornada na área de programação.
 
----
-
-### 🌱 Atualmente aprendendo
-- **Java** (principal linguagem até o momento)
-- **JavaScript** (iniciando neste semestre)
-- Lógica de programação e resolução de problemas
+Ainda estou construindo minha base, aprendendo os fundamentos e tentando evoluir um pouco a cada projeto que faço.
 
 ---
 
-### 💻 Tecnologias e ferramentas
-- **Linguagens:**  
-  - Java  
-  - JavaScript (iniciante)
-  - SQL 
+### O que estou aprendendo atualmente
 
-- **Ferramentas e ambientes:**  
-  - Eclipse  
-  - MySQL  
-  - VS Code (iniciando neste semestre)  
-  - Git e GitHub (primeiros passos)
+No momento estou focada principalmente em:
+
+- **Java**, que foi a primeira linguagem que comecei a estudar
+- **JavaScript**, que comecei a ver neste semestre
+- **Lógica de programação** e prática de resolução de problemas
 
 ---
 
-### 🔭 No que estou trabalhando
-- Pequenos **projetos de prática** para reforçar o conteúdo aprendido no primeiro semestre  
-- Aprimorando os **fundamentos em Java**  
-- Me preparando para me aprofundar em **JavaScript**
+### Tecnologias e ferramentas que já tive contato
+
+**Linguagens**
+- Java  
+- JavaScript (iniciante)  
+- SQL  
+
+**Ferramentas**
+- Eclipse  
+- MySQL  
+- VS Code (começando a usar agora)  
+- Git e GitHub (ainda aprendendo)
 
 ---
 
-### 🎯 Objetivos
-- Construir uma **base sólida em programação**
-- Evoluir em **Java e JavaScript**
-- Me preparar para conquistar meu **primeiro estágio**
+### O que você vai encontrar aqui
+
+Aqui no meu GitHub eu vou colocando **projetos de estudo e exercícios** que faço durante a faculdade ou para praticar por conta própria.
+
+A ideia é ir registrando minha evolução ao longo do tempo.
 
 ---
 
-### 🧠 Curiosidades sobre mim
-- Gosto de **quebra-cabeças**, **palavras cruzadas** e jogos de lógica  
-- Curto desafios que estimulam o **raciocínio e a resolução de problemas**
+### Objetivos
+
+Atualmente meu foco é:
+
+- fortalecer minha base em programação  
+- evoluir em **Java e JavaScript**  
+- me preparar para conseguir meu **primeiro estágio na área**
 
 ---
 
-### 📫 Como me encontrar
-- 📧 Email: **dominice.giovana@gmail.com**
+### Um pouco sobre mim
+
+Gosto bastante de coisas que envolvem **lógica e raciocínio**, como:
+- quebra-cabeças  
+- palavras cruzadas  
+- jogos de lógica
 
 ---
 
-✨ *Este perfil representa meu processo de aprendizado. Cada repositório faz parte da minha evolução como estudante e futura desenvolvedora.*
+### Contato
+
+📧 **Email:** dominice.giovana@gmail.com
+
+---
+
+Este perfil acompanha meu processo de aprendizado.  
+Ainda estou no começo, mas a ideia é continuar estudando e melhorando projeto por projeto.
